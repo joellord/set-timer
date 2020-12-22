@@ -9,7 +9,7 @@
   "author": "Joel Lord <joelphy@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "node-notifier": "^6.0.0",
+    "node-notifier": "^8.0.1",
     "yargs": "^15.1.0"
   },
   "bin": {
