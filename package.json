@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "node-notifier": "^6.0.0",
-    "yargs": "^15.1.0"
+    "yargs": "^15.4.1"
   },
   "bin": {
     "set-timer": "./index.js"
